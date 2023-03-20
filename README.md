@@ -1,13 +1,6 @@
-![github-banner](https://user-images.githubusercontent.com/91944321/178267614-0ed4455f-78e1-4084-96c7-3d0835042b82.png)
-
-
-# JOY ZADAN
-## Full Stack Software Developer and Code Institute Alumna
+# ELEANOR BUCKE
+## Full Stack Software Student with Code Institute
 ### About me 👋
-
-Hi and thanks for visiting!
-
-I'm a highly motivated and studyinh Full Stack. Developer with experience in helping organizations solve complex and challenging real-world problems using innovative web applications and tech-based solutions. 
 
 ## CONTACT ME
 <a href="https://www.linkedin.com/in/eleanor-bucke-mehmood-38a5b6222/">
