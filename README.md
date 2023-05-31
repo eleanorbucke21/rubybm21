@@ -11,13 +11,6 @@
 </a>
 
 ## MY TECH STACK
-👩‍💻 **I’m currently learning ...**
-
-<p dir="auto"> 
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
-</p>
-
-
 🌳 **I’m continuing to learn ...**
 
 <p dir="auto">
@@ -42,12 +35,6 @@
     <img alt="Fontawesome" src="https://img.shields.io/badge/fontawesome-4f89d0?logo=fontawesome&logoColor=white&style=for-the-badge" />
  </p>
 
-⚡ **Automated Testing**
- <p dir="auto">
-    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
-    <img alt="Coverage" src="https://img.shields.io/badge/coverage-2980b9?logo=coverage&logoColor=white&style=for-the-badge" />
- </p>
-
 🗄️ **Databases**
   <p dir="auto">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
@@ -70,12 +57,21 @@
  
  ☁️ **Cloud Storage**
  <p dir="auto">
+    <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-ec7211?logo=aws&logoColor=white&style=for-the-badge" />
     <img alt="Cloudinary API" src="https://img.shields.io/badge/cloudinary%20api-0000FF?logo=cloudinary&logoColor=white&style=for-the-badge" /> 
+    
  </p> 
  
  ⚙️ **Wireframes, Interface Design &amp; Collaborative Whiteboard**
  <p dir="auto">
     <img alt="Balsamiq" src="https://img.shields.io/badge/balsamiq%20wireframes-a60000?logo=balsamiq&logoColor=white&style=for-the-badge" /> 
  </p> 
+ 
+  🎨 **Adobe Creative Cloud**
+ <p dir="auto">
+    <img alt="InDesign" src="https://img.shields.io/badge/indesign-47021e.svg?style=for-the-badge&logo=indesign&logoColor=#ff3366" />
+    <img alt="Illustrator" src="https://img.shields.io/badge/illustrator-310000?logo=illustrator&logoColor=white&style=for-the-badge" />
+    <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-001e36?logo=photoshop&logoColor=white&style=for-the-badge" /> 
+ </p>
  
 ---
