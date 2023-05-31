@@ -71,7 +71,8 @@
  <p dir="auto">
     <img alt="InDesign" src="https://img.shields.io/badge/indesign-47021e.svg?style=for-the-badge&logo=indesign&logoColor=#ff3366" />
     <img alt="Illustrator" src="https://img.shields.io/badge/illustrator-310000?logo=illustrator&logoColor=white&style=for-the-badge" />
-    <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-001e36?logo=photoshop&logoColor=white&style=for-the-badge" /> 
+    <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-001e36?logo=photoshop&logoColor=white&style=for-the-badge" />
+    <img alt ="Express" src="https://img.shields.io/badge/-EXPRESS-blue"/>
  </p>
  
 ---
